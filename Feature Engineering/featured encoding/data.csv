@@ -1,0 +1,51 @@
+customer_id,name,gender,education_level,employment_status,city,product_category,satisfaction_rating,subscription_tier,payment_method,device_type,purchase_frequency,customer_segment,income_bracket,age_group,membership_status,preferred_language,region,season_joined,credit_rating,target_purchased
+1,Alice Johnson,Female,Bachelor,Full-time,Mumbai,Electronics,Very Satisfied,Premium,Credit Card,Mobile,Weekly,High Value,High,Adult,Gold,English,West,Summer,Excellent,Yes
+2,Bob Smith,Male,Master,Self-employed,Delhi,Clothing,Satisfied,Standard,Debit Card,Desktop,Monthly,Medium Value,Medium,Senior,Silver,Hindi,North,Winter,Good,Yes
+3,Charlie Brown,Male,High School,Unemployed,Bangalore,Home & Kitchen,Neutral,Basic,Cash,Tablet,Rarely,Low Value,Low,Young Adult,Bronze,English,South,Spring,Fair,No
+4,Diana Prince,Female,PhD,Full-time,Hyderabad,Beauty,Very Satisfied,Premium,UPI,Mobile,Daily,High Value,Very High,Adult,Platinum,Telugu,South,Autumn,Excellent,Yes
+5,Edward Lee,Male,Bachelor,Part-time,Chennai,Sports,Satisfied,Standard,Credit Card,Laptop,Weekly,Medium Value,Medium,Adult,Gold,Tamil,South,Summer,Good,Yes
+6,Fiona Davis,Female,High School,Student,Kolkata,Books,Dissatisfied,Basic,Debit Card,Mobile,Monthly,Low Value,Low,Young Adult,Bronze,Bengali,East,Winter,Fair,No
+7,George Wilson,Male,Master,Full-time,Pune,Electronics,Very Satisfied,Premium,Credit Card,Desktop,Weekly,High Value,High,Senior,Platinum,English,West,Spring,Excellent,Yes
+8,Hannah White,Female,Bachelor,Full-time,Ahmedabad,Clothing,Satisfied,Standard,UPI,Mobile,Bi-weekly,Medium Value,Medium,Adult,Silver,Gujarati,West,Autumn,Good,Yes
+9,Ivan Martinez,Male,Associate,Unemployed,Jaipur,Home & Kitchen,Neutral,Basic,Cash,Tablet,Rarely,Low Value,Low,Adult,Bronze,Hindi,North,Summer,Fair,No
+10,Julia Garcia,Female,PhD,Full-time,Surat,Beauty,Very Satisfied,Premium,Credit Card,Laptop,Daily,High Value,Very High,Senior,Platinum,Gujarati,West,Winter,Excellent,Yes
+11,Kevin Taylor,Male,High School,Part-time,Lucknow,Sports,Dissatisfied,Basic,Debit Card,Mobile,Monthly,Low Value,Low,Young Adult,Bronze,Hindi,North,Spring,Poor,No
+12,Laura Anderson,Female,Bachelor,Full-time,Kanpur,Books,Satisfied,Standard,UPI,Desktop,Weekly,Medium Value,Medium,Adult,Gold,Hindi,North,Autumn,Good,Yes
+13,Michael Thomas,Male,Master,Self-employed,Nagpur,Electronics,Very Satisfied,Premium,Credit Card,Mobile,Weekly,High Value,High,Senior,Platinum,Marathi,Central,Summer,Excellent,Yes
+14,Nancy Jackson,Female,Associate,Full-time,Indore,Clothing,Satisfied,Standard,Debit Card,Laptop,Bi-weekly,Medium Value,Medium,Adult,Silver,Hindi,Central,Winter,Good,Yes
+15,Oscar White,Male,PhD,Full-time,Thane,Home & Kitchen,Very Satisfied,Premium,UPI,Desktop,Weekly,High Value,Very High,Senior,Platinum,Marathi,West,Spring,Excellent,Yes
+16,Paula Martin,Female,High School,Unemployed,Bhopal,Beauty,Neutral,Basic,Cash,Mobile,Rarely,Low Value,Low,Young Adult,Bronze,Hindi,Central,Autumn,Fair,No
+17,Quinn Harris,Male,Bachelor,Part-time,Visakhapatnam,Sports,Satisfied,Standard,Credit Card,Tablet,Monthly,Medium Value,Medium,Adult,Gold,Telugu,South,Summer,Good,Yes
+18,Rachel Clark,Female,Master,Full-time,Patna,Books,Very Satisfied,Premium,Debit Card,Laptop,Weekly,High Value,High,Senior,Platinum,Hindi,East,Winter,Excellent,Yes
+19,Samuel Lewis,Male,Associate,Self-employed,Vadodara,Electronics,Satisfied,Standard,UPI,Mobile,Bi-weekly,Medium Value,Medium,Adult,Silver,Gujarati,West,Spring,Good,Yes
+20,Tina Walker,Female,High School,Student,Ghaziabad,Clothing,Dissatisfied,Basic,Cash,Desktop,Rarely,Low Value,Low,Young Adult,Bronze,Hindi,North,Autumn,Fair,No
+21,Uma Robinson,Female,PhD,Full-time,Ludhiana,Home & Kitchen,Very Satisfied,Premium,Credit Card,Mobile,Daily,High Value,Very High,Senior,Platinum,Punjabi,North,Summer,Excellent,Yes
+22,Victor Young,Male,High School,Unemployed,Agra,Beauty,Neutral,Basic,Debit Card,Tablet,Monthly,Low Value,Low,Young Adult,Bronze,Hindi,North,Winter,Poor,No
+23,Wendy Hall,Female,Bachelor,Full-time,Nashik,Sports,Satisfied,Standard,UPI,Laptop,Weekly,Medium Value,Medium,Adult,Gold,Marathi,West,Spring,Good,Yes
+24,Xavier Allen,Male,Master,Self-employed,Faridabad,Books,Very Satisfied,Premium,Credit Card,Desktop,Weekly,High Value,High,Senior,Platinum,Hindi,North,Autumn,Excellent,Yes
+25,Yara King,Female,Associate,Part-time,Meerut,Electronics,Satisfied,Standard,Debit Card,Mobile,Bi-weekly,Medium Value,Medium,Adult,Silver,Hindi,North,Summer,Good,Yes
+26,Zachary Wright,Male,PhD,Full-time,Rajkot,Clothing,Very Satisfied,Premium,UPI,Laptop,Weekly,High Value,Very High,Senior,Platinum,Gujarati,West,Winter,Excellent,Yes
+27,Amy Scott,Female,High School,Student,Kalyan,Home & Kitchen,Dissatisfied,Basic,Cash,Mobile,Rarely,Low Value,Low,Young Adult,Bronze,Marathi,West,Spring,Fair,No
+28,Brian Green,Male,Bachelor,Full-time,Vasai,Beauty,Satisfied,Standard,Credit Card,Desktop,Monthly,Medium Value,Medium,Adult,Gold,Marathi,West,Autumn,Good,Yes
+29,Carol Adams,Female,Master,Full-time,Varanasi,Sports,Very Satisfied,Premium,Debit Card,Tablet,Weekly,High Value,High,Senior,Platinum,Hindi,North,Summer,Excellent,Yes
+30,David Baker,Male,Associate,Unemployed,Srinagar,Books,Neutral,Basic,Cash,Mobile,Rarely,Low Value,Low,Adult,Bronze,Kashmiri,North,Winter,Fair,No
+31,Emily Nelson,Female,PhD,Full-time,Aurangabad,Electronics,Very Satisfied,Premium,UPI,Laptop,Daily,High Value,Very High,Senior,Platinum,Marathi,Central,Spring,Excellent,Yes
+32,Frank Carter,Male,High School,Part-time,Dhanbad,Clothing,Dissatisfied,Basic,Debit Card,Mobile,Monthly,Low Value,Low,Young Adult,Bronze,Hindi,East,Autumn,Poor,No
+33,Grace Mitchell,Female,Bachelor,Full-time,Amritsar,Home & Kitchen,Satisfied,Standard,Credit Card,Desktop,Weekly,Medium Value,Medium,Adult,Gold,Punjabi,North,Summer,Good,Yes
+34,Henry Perez,Male,Master,Self-employed,Allahabad,Beauty,Very Satisfied,Premium,UPI,Mobile,Weekly,High Value,High,Senior,Platinum,Hindi,North,Winter,Excellent,Yes
+35,Iris Roberts,Female,Associate,Full-time,Ranchi,Sports,Satisfied,Standard,Debit Card,Laptop,Bi-weekly,Medium Value,Medium,Adult,Silver,Hindi,East,Spring,Good,Yes
+36,Jack Turner,Male,Bachelor,Part-time,Howrah,Books,Satisfied,Standard,Cash,Tablet,Monthly,Medium Value,Medium,Adult,Gold,Bengali,East,Autumn,Good,Yes
+37,Karen Phillips,Female,PhD,Full-time,Coimbatore,Electronics,Very Satisfied,Premium,Credit Card,Desktop,Weekly,High Value,Very High,Senior,Platinum,Tamil,South,Summer,Excellent,Yes
+38,Louis Campbell,Male,High School,Unemployed,Jodhpur,Clothing,Neutral,Basic,Debit Card,Mobile,Rarely,Low Value,Low,Young Adult,Bronze,Hindi,North,Winter,Fair,No
+39,Maria Parker,Female,Master,Full-time,Madurai,Home & Kitchen,Very Satisfied,Premium,UPI,Laptop,Weekly,High Value,High,Senior,Platinum,Tamil,South,Spring,Excellent,Yes
+40,Nathan Evans,Male,PhD,Self-employed,Gwalior,Beauty,Very Satisfied,Premium,Credit Card,Mobile,Daily,High Value,Very High,Senior,Platinum,Hindi,Central,Autumn,Excellent,Yes
+41,Olivia Edwards,Female,High School,Student,Vijayawada,Sports,Dissatisfied,Basic,Debit Card,Desktop,Monthly,Low Value,Low,Young Adult,Bronze,Telugu,South,Summer,Fair,No
+42,Peter Collins,Male,Bachelor,Full-time,Jabalpur,Books,Satisfied,Standard,UPI,Tablet,Weekly,Medium Value,Medium,Adult,Gold,Hindi,Central,Winter,Good,Yes
+43,Quinn Stewart,Female,Associate,Part-time,Gurgaon,Electronics,Satisfied,Standard,Cash,Mobile,Bi-weekly,Medium Value,Medium,Adult,Silver,Hindi,North,Spring,Good,Yes
+44,Rita Sanchez,Female,Master,Full-time,Mysore,Clothing,Very Satisfied,Premium,Credit Card,Laptop,Weekly,High Value,High,Senior,Platinum,Kannada,South,Autumn,Excellent,Yes
+45,Steve Morris,Male,High School,Unemployed,Bareilly,Home & Kitchen,Neutral,Basic,Debit Card,Desktop,Rarely,Low Value,Low,Young Adult,Bronze,Hindi,North,Summer,Poor,No
+46,Tara Rogers,Female,Bachelor,Full-time,Aligarh,Beauty,Satisfied,Standard,UPI,Mobile,Monthly,Medium Value,Medium,Adult,Gold,Hindi,North,Winter,Good,Yes
+47,Ulysses Reed,Male,PhD,Self-employed,Moradabad,Sports,Very Satisfied,Premium,Credit Card,Tablet,Weekly,High Value,Very High,Senior,Platinum,Hindi,North,Spring,Excellent,Yes
+48,Violet Cook,Female,Associate,Full-time,Kota,Books,Satisfied,Standard,Debit Card,Laptop,Bi-weekly,Medium Value,Medium,Adult,Silver,Hindi,North,Autumn,Good,Yes
+49,Walter Morgan,Male,Master,Full-time,Bhubaneswar,Electronics,Very Satisfied,Premium,UPI,Desktop,Weekly,High Value,High,Senior,Platinum,Odia,East,Summer,Excellent,Yes
+50,Xena Bell,Female,High School,Student,Chandigarh,Clothing,Dissatisfied,Basic,Cash,Mobile,Rarely,Low Value,Low,Young Adult,Bronze,Hindi,North,Winter,Fair,No
